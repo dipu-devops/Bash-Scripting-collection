@@ -1,0 +1,21 @@
+#!/bin/bash
+#
+#This program will show multi line text
+#
+echo "Hello
+Dipu
+Singh
+"
+echo "hello \
+world \
+devops \
+Engineer
+"
+# Strong quote in this will print as you have writen
+echo 'hello \
+	how \
+	are \
+	you.'
+echo "This is Dipu \t singh \t Devops \t Engineer"
+# Or we can use \ for insearting the text in same line and we also can use this \ for installing packages
+apt install python3 \ ngnix 
