@@ -34,12 +34,4 @@ main() {
     deploy_to_remote_server
 }
 
-# Entry point
-main
-Note: This script assumes that you have already set up your Git repository and have SSH access to the remote server with the appropriate credentials. Please make sure to update the environment variables in the script with your own values according to your deployment requirements. Additionally, this is a basic example and may need to be customized or extended depending on your specific web application and server configuration. Always thoroughly test and validate any automation scripts before using them in production environments.
-
-
-
-
-
 
